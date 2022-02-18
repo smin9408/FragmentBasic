@@ -5,9 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="15dp"
     tools:context=".MainActivity">
 
+    <fragment
+        android:id="@+id/firstFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        class="com.neppplus.fragmentbasic.fragments.MyFirstFragment"/>
 
 
 </LinearLayout>
