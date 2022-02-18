@@ -19,4 +19,9 @@
         android:layout_height="250dp"
         class="com.neppplus.fragmentbasic.fragments.SecondFragment"/>
 
+
+
+<!--  ThirdFragment 만들어서 배치, 세로 300dp -->
+
+
 </LinearLayout>
