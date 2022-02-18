@@ -20,8 +20,12 @@
         class="com.neppplus.fragmentbasic.fragments.SecondFragment"/>
 
 
-
-<!--  ThirdFragment 만들어서 배치, 세로 300dp -->
+    <!--  ThirdFragment 만들어서 배치, 세로 300dp -->
+    <fragment
+        android:id="@+id/thirdFragment"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="com.neppplus.fragmentbasic.fragments.ThirdFragment"/>
 
 
 </LinearLayout>
